@@ -8,22 +8,13 @@ fi
 figlet -f mini    .....KALI-NETHUNTER.....
 echo 
 figlet Subscribe
-echo "
- ▀█▀ █▀▀ ▄▀ █░░ ▀▀▀▀█ ▀ █▄░█ █▀▄ ▀ ▄▀▄
- ░█░ █▀▀ █░ █▀▄ ░▄▀▀░ █ █░▀█ █░█ █ █▀█
- ░▀░ ▀▀▀ ░▀ ▀░▀ ▀▀▀▀▀ ▀ ▀░░▀ ▀▀░ ▀ ▀░▀
-"
 echo
 echo "
 ▒▐█▒▐▀░░▄█▀▄─▒██░░░▐██▒██░░░▐██▒██▄░▒█▌▒█▒█▒▐▌▐▌
 ▒▐██▌░░▐█▄▄▐█▒██░░░░█▌▒██░░░░█▌▒▐█▒█▒█░▒█▒█░▒▐▌░
 ▒▐█▒▐▄░▐█─░▐█▒██▄▄█▐██▒██▄▄█▐██▒██░▒██▌▒▀▄▀▒▐▌▐▌
 "
-echo " ---------Special Thanks To Hax4us ;)-----------"
-echo "-------SUBSCRIBE TECHZINDIA YT CHANNEL------"
-echo
-echo
-echo " *********If proot Error Come!!! Don't Worry! *********"
+echo " *********In Case of proot Error! *********"
 echo
 echo " ********Just Uninstall Proot And Reinstall ******** "
 echo
